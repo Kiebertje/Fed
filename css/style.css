@@ -1,0 +1,76 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0px;
+}
+
+
+/****************************/
+/************nav*************/
+/****************************/
+
+nav {
+    background-color: black;
+    padding: 0;
+    margin: 0;
+    position: sticky;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    justify-content: space-evenly;
+}
+
+
+
+
+/****************************/
+/***********main*************/
+/****************************/
+
+#popcompany {
+    position: relative;
+}
+
+#popcompany h2 {
+    position: absolute;
+    left: 1em;
+    right: 1em;
+    bottom: 1em;
+    color: white;
+    border: solid 10px white;
+    background-color: white;
+    color: black;
+    text-align: center;
+
+}
+
+a>img {
+    height: 60px;
+}
+
+h2>img {
+    height: 100px;
+}
+
+#companyfoto {
+    height: 500px;
+    width: 375px;
+}
+
+
+/* bron beng logo: https://www.ben-g.nl/collections/ben-g-select */
+/* bron popcompany shop nu foto: https://www.seprun.com/search/pop-trading-company-big-pocket-shirt-black */
+/* bron shoppingcar: https://icon-library.com/icon/cart-icon-png-white-11.html */
+/* bar menu: https://icon-library.com/icon/white-hamburger-menu-icon-24.html */
