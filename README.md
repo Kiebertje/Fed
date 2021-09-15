@@ -58,14 +58,8 @@ product pagina
 <details>
 <summary>uitwerken na afloop 2e werkgroep</summary>
 
-### de hele pagina: 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+[Breakdownschets V1.pdf](https://github.com/Kiebertje/Fed/files/7173016/Breakdownschets.V1.pdf)
 
-### dynamisch deel (bijv menu): 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
-
-### wellicht nog een dynamisch deel (bijv filter): 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
 
 </details>
 
@@ -79,7 +73,13 @@ product pagina
 <summary>uitwerken voor 1e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Ik had veel moeite om te beginnen met me site, maar toen ik eenmaal bezig was ging het voor mijn gevoel wel goed.
+ Ik heb meerendeel van mijn tijd besteed aan het maken van het huiswerk en begrijpen hoe alles werkt. 
+ Voor mijn gevoel gaat het wel goed, heb nog niet het gevoel dat ik vastloop en het is uitdagend genoeg.
+<img width="1440" alt="Screenshot 2021-09-15 at 22 20 31" src="https://user-images.githubusercontent.com/90263552/133504019-7282670c-da7a-473c-80c0-e37ce6ec5c71.png">
+ <img width="1440" alt="Screenshot 2021-09-15 at 22 20 45" src="https://user-images.githubusercontent.com/90263552/133504035-a241166d-8e49-4d89-8e70-8ffb1ec3611c.png">
+
+
 
 
 ### Agenda voor meeting
