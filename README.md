@@ -76,6 +76,7 @@ product pagina
 Ik had veel moeite om te beginnen met me site, maar toen ik eenmaal bezig was ging het voor mijn gevoel wel goed.
  Ik heb meerendeel van mijn tijd besteed aan het maken van het huiswerk en begrijpen hoe alles werkt. 
  Voor mijn gevoel gaat het wel goed, heb nog niet het gevoel dat ik vastloop en het is uitdagend genoeg.
+ Het enige waar ik mee zit is dat ik niet zo goed weet hoe ver je op dit moment moet zijn.
 <img width="1440" alt="Screenshot 2021-09-15 at 22 20 31" src="https://user-images.githubusercontent.com/90263552/133504019-7282670c-da7a-473c-80c0-e37ce6ec5c71.png">
  <img width="1440" alt="Screenshot 2021-09-15 at 22 20 45" src="https://user-images.githubusercontent.com/90263552/133504035-a241166d-8e49-4d89-8e70-8ffb1ec3611c.png">
 
