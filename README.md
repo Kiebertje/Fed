@@ -94,12 +94,13 @@ samen met je groepje opstellen
 
 
 ### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
+We hadden niks besproken, dus iedereen had zijn eigenwerk laten zien, uiteindelijk bleek het dat iedereen wat achterliep.
+Wat ik erg nuttig vond was dat je iedereen ze werk kon zien en hiermee een beter idee kon krijgen hoe ver je ongeveer op dit moment moest zijn.
+Ik heb uit her gesprek de volgende dingen gehaald:
+ -ik moest een planning gaan maken
+ -ik kan naar school gaan als ik thuis niet goed kan werken
+ -ik kan het huiswerk doorlopen om te kijken hoe alles werkt
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
 
 </details>
 
@@ -113,7 +114,10 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken voor 2e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Ik had minder moeite om te beginnen, maar vond het wel lastiger om de correcte code te schrijven, heb hier hulp bij gekregen van mede studenten en heb me java script afgemaakt en ben ook verder gegaan met me css en html
+<img width="494" alt="Screenshot 2021-09-26 at 11 38 56" src="https://user-images.githubusercontent.com/90263552/134802385-3509839f-2b34-4024-a3db-d5ce940d3120.png">
+<img width="1000" alt="Screenshot 2021-09-26 at 11 39 54" src="https://user-images.githubusercontent.com/90263552/134802417-d2ba76fe-2993-4f54-baa2-70eb34b8f7e7.png">
+<img width="517" alt="Screenshot 2021-09-26 at 11 40 38" src="https://user-images.githubusercontent.com/90263552/134802437-a373eca5-2434-490b-89b3-b808cd52ca4c.png">
 
 
 ### Agenda voor meeting
@@ -127,7 +131,7 @@ samen met je groepje opstellen
 
 
 ### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
+Ik kon helaas niet aanwezig zijn bij deze meeting.
 
 - punt 1
 - punt 2
