@@ -4,6 +4,7 @@ body {
 }
 
 
+
 /****************************/
 /************nav*************/
 /****************************/
@@ -12,7 +13,9 @@ nav {
     background-color: black;
     padding: 0;
     margin: 0;
-    position: sticky;
+    position: fixed;
+    width: 100%;
+    z-index: 99;
 }
 
 nav a {
@@ -39,26 +42,38 @@ nav ul {
 /***********main*************/
 /****************************/
 
-#popcompany {
-    position: relative;
+main img {
+    width: 100%;
 }
 
-#popcompany h2 {
+li {
+    text-decoration: none;
+    list-style-type: none;
+}
+
+main>article {
+    position: relative;
+    width: 100%;
+}
+
+article h2 {
     position: absolute;
-    left: 1em;
-    right: 1em;
-    bottom: 1em;
+    bottom: 40px; 
+    left: 7.5%;
     color: white;
     border: solid 10px white;
     background-color: white;
     color: black;
     text-align: center;
-
+    width: 300px;
 }
 
 a>img {
     height: 60px;
 }
+
+
+/*popcompany*/
 
 h2>img {
     height: 100px;
@@ -66,7 +81,86 @@ h2>img {
 
 #companyfoto {
     height: 500px;
-    width: 375px;
+}
+
+#grid {
+    display: flex;
+    display: inline-block;
+    columns: 3;
+
+}
+
+
+/* #grid {
+    display: grid;
+    grid-template-columns: 100px 100px 100px;
+    grid-template-rows: 100px 100px 100px ;
+    justify-content: center;
+} */
+
+
+div>img {
+    height: 100px;
+    width: 100%;
+    object-fit: cover;
+} 
+
+/*bronze56k (tweede afbeelding) */
+#bronze {
+    padding-right: 12px;
+    padding-left: 12px;
+}
+
+article h3 p {
+    position: absolute;
+    
+
+}
+
+/*the look (derde afbeelding) */
+#thelook {
+    height: 450px;
+}
+
+/*tekst(h1,h2,h3,p)*/
+
+h3 {
+    text-align:center;
+    font-weight: bold;
+}
+
+
+footer {
+    background-color: whitesmoke;
+    width: 100%;
+}
+
+footer h4 ul li a{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+
+/*hamburgermenu*/
+
+
+header > ul:nth-of-type(1) {
+    visibility: hidden;
+    position: fixed;
+    background-color: black;
+    width: 100%;
+    margin-top: 50px;
+    display: block;
+    text-decoration: none;
+    z-index: 1000;
+    height: 400px;
+    color: white;
+}
+
+
+.hamburgermenu {
+    visibility: visible !important;
 }
 
 
@@ -74,3 +168,11 @@ h2>img {
 /* bron popcompany shop nu foto: https://www.seprun.com/search/pop-trading-company-big-pocket-shirt-black */
 /* bron shoppingcar: https://icon-library.com/icon/cart-icon-png-white-11.html */
 /* bar menu: https://icon-library.com/icon/white-hamburger-menu-icon-24.html */
+/* bron palace(instagram):https://www.shopenauer.com/en/brand/palace-skateboards/utrecht */
+/* bron polar (instagram):https://news.nike.com/news/converse-cons-and-polar-skate-co-debut-first-footwear-and-apparel-collection */
+/* bron rassvet (instagram): https://www.vogue.fr/vogue-hommes-en/article/rassvet-the-label-that-celebrates-skate-culture */
+/* bron ben-g dunks (instagram): https://sneakernews.com/2019/09/22/ben-g-nike-sb-dunk-low-release-date/ */
+/* bron supreme dunks (instagram): https://www.highsnobiety.com/p/supreme-nike-sb-dunk-low-hyper-blue-release-date-price/ */
+/* bron the hundereds (instagram): https://thehundreds.uk/blogs/content/the-hundreds-x-one-piece?country=NL */ 
+/* bron shop the look: https://webshop.poptradingcompany.com/products/pop-full-zip-knitted-vest-spruce-yellow */
+/* bron obey: https://obeyclothing.eu/products/obey-icon-heavyweight-pullover-hood */
