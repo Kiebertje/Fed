@@ -151,23 +151,39 @@ Ik kon helaas niet aanwezig zijn bij deze meeting.
 
 ### Bevindingen
 Lijst met je bevindingen die in de test naar voren kwamen:
+ -tab-key moet duidelijker.
+ -hamburgermenu kan je niet op tabben.
+ -op de ben-g site zelf zorgt de tab-key voor verwarring.
+ -voice over is verwarrend (voor mij).
+ -als fingers zijn vastgebonden valt de site te bedienen.
+ -met schokken valt de site wel te bedienen, alleen zijn sommige buttons te klein en kan scrollen een probleem.
+ -suikerziekte bril is het wel te doen de tekst is groot genoeg en de plaatjes en buttons zijn duidelijk.
+ -ballon oefening was niet erg relevant voor mijn website, maar het liet wel goed zien dat het moeilijk is om te navigeren en om een form in te vullen als je snel    bent afgeleid.
+ -niet iedereen die kleurenblind is ziet hetzelfde, dus is dit aanpakken erg lastig.
+ 
 
-#### Titel eerste bevinding
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
-
-#### Titel tweede bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+#### Door heen met tab-key.
+Hier korte omschrijving (met indien nodig een afbeelding):
+Als je door me website heeft tabt is het eerst wel duidelijk waar je bent maar als je even weg kwijt is het moeilijk om precies te zien waar je gebleven was.
+ 
+Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding):
+Dit probleem is makkelijk op te lossen door in de css de een focus toe te voegen hiermee kan je ervoor zorgen dat het duidelijker is waar de gebruiker zich op dat moment bevind.
 
 
-#### Titel volgende bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
+#### Spasmes en spasticiteit. 
+Hier korte omschrijving (met indien nodig een afbeelding):
+Om dit te testen hebben we een schok apparaat op ons arm gezet en hierdoor kan je je arm en hand niet stil houden. Dit zorgt er dus voor dat je niet stabiel een muis of touchpad kan gebruiken. De meeste sites vallen wel nog te bedienen alleen als een button te klein is wordt het wel lastig, op mijn site zijn sommige buttons kleiner dan andere en staan ze ook in de hoeken dit maakt het dus lastiger voor iemand met spasmes om deze makkelijk te bedienen.
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding):
+Je kan een button groter maken of je kan ervoor zorgen dat je op plaatjes kan drukken(ipv een button). Een hamburgermenu is ook erg lastig te bedienen omdat deze redelijk te klein is dus op desktop zou ik deze vermeiden en een menubalk maken.
+
+
+#### Beperkt zicht door suikerziekte. 
+Hier korte omschrijving (met indien nodig een afbeelding):
+Door een bril op te zetten met witte vlekken op de glazen kan je slecht zicht door suikerziekte immiteren. Wat al snel duidelijk werd was dat sommige kleuren moeilijker te zien waar op een specifeiek achtergronden. Wit op zwart was moeilijk te lezen terwijl zwart op wit wel goed te doen was.
+
+Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding):
+De oplossing hiervoor klinkt erg makkelijk, maar kan nog best moeilijk zijn. Je moet sommige kleur combinaties niet gebruiken, maar dat kan niet altijd. Ook iedereen heeft andere instelling op zijn apparaat (denk hierbij aan dark/light mode). Het is dus een goed idee om sommige kleur combinaties te vermeiden en ook om veel verschillende kleuren te gebruiken (dit kan de gebruiker helpen begrijpen dat het iets anders is dan de vorige pagina bijvoorbeeld).
 
 
 #### Titel nog een bevinding. 
