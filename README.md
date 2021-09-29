@@ -186,10 +186,12 @@ Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbe
 De oplossing hiervoor klinkt erg makkelijk, maar kan nog best moeilijk zijn. Je moet sommige kleur combinaties niet gebruiken, maar dat kan niet altijd. Ook iedereen heeft andere instelling op zijn apparaat (denk hierbij aan dark/light mode). Het is dus een goed idee om sommige kleur combinaties te vermeiden en ook om veel verschillende kleuren te gebruiken (dit kan de gebruiker helpen begrijpen dat het iets anders is dan de vorige pagina bijvoorbeeld).
 
 
-#### Titel nog een bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
+#### Alt tekst bij een afbeelding. 
+Hier korte omschrijving (met indien nodig een afbeelding):
+Als je met voice over een afbeeldign leest leest de voice over de alt tekst. Als de alt niet duidelijk is of iets is in de richting van "afbeelding_5_mooi.gif" zal een gebruiker geen idee hebben waar hij naar kijkt. Als er geen alt is leest de voice over niks voor en dit helpt de gebruiker ook niet.
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding):
+Om dit op te lossen moet je een duidelijke alt bedenken waar de gerbuiker wat aan heeft. 
 
 </details>
 
