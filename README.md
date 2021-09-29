@@ -160,7 +160,7 @@ Lijst met je bevindingen die in de test naar voren kwamen:
  -suikerziekte bril is het wel te doen de tekst is groot genoeg en de plaatjes en buttons zijn duidelijk.
  -ballon oefening was niet erg relevant voor mijn website, maar het liet wel goed zien dat het moeilijk is om te navigeren en om een form in te vullen als je snel    bent afgeleid.
  -niet iedereen die kleurenblind is ziet hetzelfde, dus is dit aanpakken erg lastig.
- 
+ -voice over leest de alt van een afbeelding.
 
 #### Door heen met tab-key.
 Hier korte omschrijving (met indien nodig een afbeelding):
