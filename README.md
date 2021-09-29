@@ -205,7 +205,9 @@ Om dit op te lossen moet je een duidelijke alt bedenken waar de gerbuiker wat aa
 <summary>uitwerken voor 3e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code):
+ Ik heb het gevoel dat ik zo goed als klaar ben moet alleen de tweede pagina nog style. Ik heb ook me code herschreven dat het meer profesioneel lijkt. De grootste verandering is denk ik de focus state ik vond het leuk om ermee te werken.
+<img width="699" alt="Screenshot 2021-09-29 at 22 33 14" src="https://user-images.githubusercontent.com/90263552/135344289-b56a75ae-01f2-4b36-9417-df75e13f59d4.png">
 
 
 ### Agenda voor meeting
