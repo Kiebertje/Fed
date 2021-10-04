@@ -88,8 +88,8 @@ samen met je groepje opstellen
 
 | student Sjors       | student Joost          | student Mack    | student Ryan        |
 | ---                 | ---                    | ---             | ---              |
-| Hoe kan ik mijn     | en dit                 | en ik dit       | en dan ik dat    |
-| achterstand inhalen?| dit als er tijd is     | nog een punt    | dit wil ik zeker |
+| Hoe kan ik mijn achterstand inhalen?     | en dit                 | en ik dit       | en dan ik dat    |
+| Hoe ver moet je nu ongeveer zijn?| dit als er tijd is     | nog een punt    | dit wil ik zeker |
 | ...                 | ...                    | ...             | ...              |
 
 
@@ -125,18 +125,16 @@ samen met je groepje opstellen
 
 | student Sjors   | student Joost      | student Mack | student Ryan     |
 | ---             | ---                | ---          | ---              |
-| Hoe erg.        | en dit             | en ik dit    | en dan ik dat    |
-| moet je java    | dit als er tijd is | nog een punt | dit wil ik zeker |
-| uitgewertk zijn | ...                | ...          | ...              |
+| Hoe erg moet je java script uitgewerkt zijn       | en dit             | en ik dit    | en dan ik dat    |
+| Is mijn code netjes?  | dit als er tijd is | nog een punt | dit wil ik zeker |
+| | ...                | ...          | ...              |
 
 
 ### Verslag van meeting
-Ik kon helaas niet aanwezig zijn bij deze meeting.
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- punt 1: check of je foto's allemaal 1 formaat zijn (als je foto's in het midden wilt zetten)
+- punt 2: gebruik 1 eenheid (alleen px of alleen em)
+- punt 3: (later nagevraagd) je java script moet je drie dingen in terug zien queryselector,addeventlistener en classlist.
 
 </details>
 
@@ -215,18 +213,17 @@ samen met je groepje opstellen
 
 | student Sjors     | student Joost         | student Mack   | student Ryan       |
 | ---               | ---                | ---          | ---              |
-| Ik heb niks te    | en dit             | en ik dit    | en dan ik dat    |
-| bespreken ben     | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ben lekker beig   | ...                | ...          | ...              |
+| Wat moet er nog gebeuren?   | en dit             | en ik dit    | en dan ik dat    |
+|      | dit als er tijd is | nog een punt | dit wil ik zeker |
+|  | ...                | ...          | ...              |
 
 
 ### Verslag van meeting
 Ik kon helaas niet aanwezig zijn bij deze meeting.
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- punt 1: wat zijn jullie nog van plan te gaan doen?
+- punt 2: extra animaties toevoegen als daar nog tijd voor is.
+- punt 3: easter eggs indien daar tijd voor is.
 
 </details>
 
@@ -241,20 +238,48 @@ Ik kon helaas niet aanwezig zijn bij deze meeting.
 
 ### Stand van zaken
 hier dit ging goed:
-Ik vond het erg leuk om met de verschilde states te werken, omdat ik het leuk vond ging het me ook makkelijker af dan andere gedeeltes. Ook vond ik het intressant om postioning te werken, na het huiswerk van de les begreep ik dat ook wel en kon ik zelf er mee aan de slag.<img width="576" alt="Screenshot 2021-10-04 at 15 32 45" src="https://user-images.githubusercontent.com/90263552/135860663-c9f1321d-bafb-43df-9dc7-73f55f6d0f3b.png"><img width="373" alt="Screenshot 2021-10-04 at 15 35 03" src="https://user-images.githubusercontent.com/90263552/135861131-d20f4ebf-905f-429f-8a6d-a505b8c0ebb2.png">
-<img width="345" alt="Screenshot 2021-10-04 at 15 36 30" src="https://user-images.githubusercontent.com/90263552/135861144-a0e2c57b-b452-4cdf-b966-f5de5a4fca30.png">
+Ik vond het erg leuk om met de verschillende states te werken, omdat ik het leuk vond ging het me ook makkelijker af dan andere gedeeltes. Ook vond ik het intressant om met postioning te werken, na het huiswerk gemaakt te hebben begreep ik dat ook wel en kon ik zelf er mee aan de slag.
 
+ <img width="373" alt="Screenshot 2021-10-04 at 15 35 03" src="https://user-images.githubusercontent.com/90263552/135870349-ae8275ae-834d-4f43-84ea-92869ba3caf1.png">
+
+ 
+ <img width="345" alt="Screenshot 2021-10-04 at 15 36 30" src="https://user-images.githubusercontent.com/90263552/135870362-d9d8b21e-30ee-4722-8cb2-8ac3eb2b0e63.png">
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 dit was lastig:
-Ik vond het moeilijk om elementen goed op aan te spreken zonder een class of id te gerbuiken, na een tijd begreep ik hoe nth-of-type werkte en welke andere maniere er zijn om elementen aan te spreken en toen lukte het wel. 
-Ik had ook moeite met javascript, gelukkig hoefde we daar niet veel van te gebruiken en met hulp van een klasgenoot kwam ik wel uit.<img width="559" alt="Screenshot 2021-10-04 at 15 32 08" src="https://user-images.githubusercontent.com/90263552/135860622-badef80d-1e18-4f94-8d95-774271ef002e.png"><img width="545" alt="Screenshot 2021-10-04 at 15 32 26" src="https://user-images.githubusercontent.com/90263552/135860649-e55c0086-d7bb-4e74-a488-e87bf81b86a9.png">
+Ik vond het moeilijk om elementen goed aan te spreken zonder een class of id te gerbuiken, na een tijd begreep ik hoe nth-of-type werkte en welke andere maniere er zijn om elementen aan te spreken en toen lukte het wel. 
+Ik had ook moeite met javascript, gelukkig hoefde we daar niet veel van te gebruiken en met hulp van een klasgenoot kwam ik er wel uit.
 
+ <img width="559" alt="Screenshot 2021-10-04 at 15 32 08" src="https://user-images.githubusercontent.com/90263552/135870450-9deb1dd1-5d4a-4db1-adf7-c28e0ca09bd9.png">
 
-(neem ook screenshots op van delen van je website en code)
+ 
+ <img width="576" alt="Screenshot 2021-10-04 at 15 32 45" src="https://user-images.githubusercontent.com/90263552/135870474-d84d21db-9342-4729-8fa6-a6a3d0420db9.png">
+
+ 
+ 
+ <img width="545" alt="Screenshot 2021-10-04 at 15 32 26" src="https://user-images.githubusercontent.com/90263552/135870484-2e122084-8b16-46d8-8457-6cd13939cfd6.png">
+
+ 
+
 
 ### Screenshot(s)
 
-hier screenshot(s) van je eindresultaat
+hier screenshot(s) van je eindresultaat:
+ <img width="375" alt="Screenshot 2021-10-04 at 16 30 11" src="https://user-images.githubusercontent.com/90263552/135870183-1ae8636a-a01c-4ab3-bc7c-5f8a70e2f47c.png">
+<img width="375" alt="Screenshot 2021-10-04 at 16 30 22" src="https://user-images.githubusercontent.com/90263552/135870189-5d715913-10c9-4ac5-8f5e-d68522a2aa5a.png">
+<img width="376" alt="Screenshot 2021-10-04 at 16 30 34" src="https://user-images.githubusercontent.com/90263552/135870213-4f8667b4-49fc-4aee-9114-b90f9c9c89e0.png">
+<img width="377" alt="Screenshot 2021-10-04 at 16 30 50" src="https://user-images.githubusercontent.com/90263552/135870238-e2737d89-eae1-4684-bd04-acc6dbfdcdf6.png">
+
+<img width="375" alt="Screenshot 2021-10-04 at 16 31 02" src="https://user-images.githubusercontent.com/90263552/135870250-11c32dfd-2c66-4916-8a77-2cd73653e6f2.png">
+<img width="377" alt="Screenshot 2021-10-04 at 16 31 14" src="https://user-images.githubusercontent.com/90263552/135870270-daa5b35b-925d-42e6-86a0-73f65deac016.png">
+<img width="375" alt="Screenshot 2021-10-04 at 16 31 23" src="https://user-images.githubusercontent.com/90263552/135870292-049c70ce-e89f-41a9-8a57-14554176b641.png">
 
 </details>
 
