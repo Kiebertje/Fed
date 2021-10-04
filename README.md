@@ -86,11 +86,11 @@ Ik had veel moeite om te beginnen met me site, maar toen ik eenmaal bezig was gi
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+| student Sjors       | student Joost          | student Mack    | student Ryan        |
+| ---                 | ---                    | ---             | ---              |
+| Hoe kan ik mijn     | en dit                 | en ik dit       | en dan ik dat    |
+| achterstand inhalen?| dit als er tijd is     | nog een punt    | dit wil ik zeker |
+| ...                 | ...                    | ...             | ...              |
 
 
 ### Verslag van meeting
@@ -123,11 +123,11 @@ Ik had minder moeite om te beginnen, maar vond het wel lastiger om de correcte c
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+| student Sjors   | student Joost      | student Mack | student Ryan     |
+| ---             | ---                | ---          | ---              |
+| Hoe erg moet    | en dit             | en ik dit    | en dan ik dat    |
+| moet je java    | dit als er tijd is | nog een punt | dit wil ik zeker |
+| uitgewertk zijn | ...                | ...          | ...              |
 
 
 ### Verslag van meeting
@@ -213,15 +213,15 @@ hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je we
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+| student Sjors     | student Joost         | student Mack   | student Ryan       |
+| ---               | ---                | ---          | ---              |
+| Ik heb niks te    | en dit             | en ik dit    | en dan ik dat    |
+| bespreken ben     | dit als er tijd is | nog een punt | dit wil ik zeker |
+| ben lekker beig   | ...                | ...          | ...              |
 
 
 ### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
+Ik kon helaas niet aanwezig zijn bij deze meeting.
 
 - punt 1
 - punt 2
@@ -240,7 +240,12 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken voor eindgesprek</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+hier dit ging goed:
+Ik vond het erg leuk om met de verschilde states te werken, omdat ik het leuk vond ging het me ook makkelijker af dan andere gedeeltes. Ook vond ik het intressant om postioning te werken, na het huiswerk van de les begreep ik dat ook wel en kon ik zelf er mee aan de slag.
+dit was lastig:
+Ik vond het moeilijk om elementen goed op aan te spreken zonder een class of id te gerbuiken, na een tijd begreep ik hoe nth-of-type werkte en welke andere maniere er zijn om elementen aan te spreken en toen lukte het wel. 
+Ik had ook moeite met javascript, gelukkig hoefde we daar niet veel van te gebruiken en met hulp van een klasgenoot kwam ik wel uit.
+(neem ook screenshots op van delen van je website en code)
 
 ### Screenshot(s)
 
