@@ -125,7 +125,7 @@ samen met je groepje opstellen
 
 | student Sjors   | student Joost      | student Mack | student Ryan     |
 | ---             | ---                | ---          | ---              |
-| Hoe erg moet    | en dit             | en ik dit    | en dan ik dat    |
+| Hoe erg.        | en dit             | en ik dit    | en dan ik dat    |
 | moet je java    | dit als er tijd is | nog een punt | dit wil ik zeker |
 | uitgewertk zijn | ...                | ...          | ...              |
 
@@ -264,8 +264,19 @@ hier screenshot(s) van je eindresultaat
 
 Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-1. bron 1
-2. bron 2
-3. ...
+/* bron beng logo: https://www.ben-g.nl/collections/ben-g-select */
+/* bron popcompany shop nu foto: https://www.seprun.com/search/pop-trading-company-big-pocket-shirt-black */
+/* bron shoppingcar: https://icon-library.com/icon/cart-icon-png-white-11.html */
+/* bar menu: https://icon-library.com/icon/white-hamburger-menu-icon-24.html */
+/* bron palace(instagram):https://www.shopenauer.com/en/brand/palace-skateboards/utrecht */
+/* bron polar (instagram):https://news.nike.com/news/converse-cons-and-polar-skate-co-debut-first-footwear-and-apparel-collection */
+/* bron rassvet (instagram): https://www.vogue.fr/vogue-hommes-en/article/rassvet-the-label-that-celebrates-skate-culture */
+/* bron ben-g dunks (instagram): https://sneakernews.com/2019/09/22/ben-g-nike-sb-dunk-low-release-date/ */
+/* bron supreme dunks (instagram): https://www.highsnobiety.com/p/supreme-nike-sb-dunk-low-hyper-blue-release-date-price/ */
+/* bron the hundereds (instagram): https://thehundreds.uk/blogs/content/the-hundreds-x-one-piece?country=NL */ 
+/* bron shop the look: https://webshop.poptradingcompany.com/products/pop-full-zip-knitted-vest-spruce-yellow */
+/* bron obey: https://obeyclothing.eu/products/obey-icon-heavyweight-pullover-hood */
+/* bron skateboard: https://nl.pinterest.com/pin/53409945570494034/ */
+/* bron pop pagina 2: https://webshop.poptradingcompany.com/products/pop-full-zip-knitted-vest-spruce-yellow */
 
 </details>
