@@ -273,12 +273,18 @@ Ik had ook moeite met javascript, gelukkig hoefde we daar niet veel van te gebru
 
 hier screenshot(s) van je eindresultaat:
  <img width="375" alt="Screenshot 2021-10-04 at 16 30 11" src="https://user-images.githubusercontent.com/90263552/135870183-1ae8636a-a01c-4ab3-bc7c-5f8a70e2f47c.png">
+ 
 <img width="375" alt="Screenshot 2021-10-04 at 16 30 22" src="https://user-images.githubusercontent.com/90263552/135870189-5d715913-10c9-4ac5-8f5e-d68522a2aa5a.png">
+ 
 <img width="376" alt="Screenshot 2021-10-04 at 16 30 34" src="https://user-images.githubusercontent.com/90263552/135870213-4f8667b4-49fc-4aee-9114-b90f9c9c89e0.png">
+ 
 <img width="377" alt="Screenshot 2021-10-04 at 16 30 50" src="https://user-images.githubusercontent.com/90263552/135870238-e2737d89-eae1-4684-bd04-acc6dbfdcdf6.png">
 
+ 
 <img width="375" alt="Screenshot 2021-10-04 at 16 31 02" src="https://user-images.githubusercontent.com/90263552/135870250-11c32dfd-2c66-4916-8a77-2cd73653e6f2.png">
+ 
 <img width="377" alt="Screenshot 2021-10-04 at 16 31 14" src="https://user-images.githubusercontent.com/90263552/135870270-daa5b35b-925d-42e6-86a0-73f65deac016.png">
+ 
 <img width="375" alt="Screenshot 2021-10-04 at 16 31 23" src="https://user-images.githubusercontent.com/90263552/135870292-049c70ce-e89f-41a9-8a57-14554176b641.png">
 
 </details>
