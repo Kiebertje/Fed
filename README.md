@@ -270,8 +270,9 @@ Ik had ook moeite met javascript, gelukkig hoefde we daar niet veel van te gebru
 
 
 ### Screenshot(s)
-
 hier screenshot(s) van je eindresultaat:
+ 
+ 
  <img width="375" alt="Screenshot 2021-10-04 at 16 30 11" src="https://user-images.githubusercontent.com/90263552/135870183-1ae8636a-a01c-4ab3-bc7c-5f8a70e2f47c.png">
  
 <img width="375" alt="Screenshot 2021-10-04 at 16 30 22" src="https://user-images.githubusercontent.com/90263552/135870189-5d715913-10c9-4ac5-8f5e-d68522a2aa5a.png">
