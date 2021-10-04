@@ -241,10 +241,15 @@ Ik kon helaas niet aanwezig zijn bij deze meeting.
 
 ### Stand van zaken
 hier dit ging goed:
-Ik vond het erg leuk om met de verschilde states te werken, omdat ik het leuk vond ging het me ook makkelijker af dan andere gedeeltes. Ook vond ik het intressant om postioning te werken, na het huiswerk van de les begreep ik dat ook wel en kon ik zelf er mee aan de slag.
+Ik vond het erg leuk om met de verschilde states te werken, omdat ik het leuk vond ging het me ook makkelijker af dan andere gedeeltes. Ook vond ik het intressant om postioning te werken, na het huiswerk van de les begreep ik dat ook wel en kon ik zelf er mee aan de slag.<img width="576" alt="Screenshot 2021-10-04 at 15 32 45" src="https://user-images.githubusercontent.com/90263552/135860663-c9f1321d-bafb-43df-9dc7-73f55f6d0f3b.png"><img width="373" alt="Screenshot 2021-10-04 at 15 35 03" src="https://user-images.githubusercontent.com/90263552/135861131-d20f4ebf-905f-429f-8a6d-a505b8c0ebb2.png">
+<img width="345" alt="Screenshot 2021-10-04 at 15 36 30" src="https://user-images.githubusercontent.com/90263552/135861144-a0e2c57b-b452-4cdf-b966-f5de5a4fca30.png">
+
+
 dit was lastig:
 Ik vond het moeilijk om elementen goed op aan te spreken zonder een class of id te gerbuiken, na een tijd begreep ik hoe nth-of-type werkte en welke andere maniere er zijn om elementen aan te spreken en toen lukte het wel. 
-Ik had ook moeite met javascript, gelukkig hoefde we daar niet veel van te gebruiken en met hulp van een klasgenoot kwam ik wel uit.
+Ik had ook moeite met javascript, gelukkig hoefde we daar niet veel van te gebruiken en met hulp van een klasgenoot kwam ik wel uit.<img width="559" alt="Screenshot 2021-10-04 at 15 32 08" src="https://user-images.githubusercontent.com/90263552/135860622-badef80d-1e18-4f94-8d95-774271ef002e.png"><img width="545" alt="Screenshot 2021-10-04 at 15 32 26" src="https://user-images.githubusercontent.com/90263552/135860649-e55c0086-d7bb-4e74-a488-e87bf81b86a9.png">
+
+
 (neem ook screenshots op van delen van je website en code)
 
 ### Screenshot(s)
