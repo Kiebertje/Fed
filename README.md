@@ -293,7 +293,7 @@ hier screenshot(s) van je eindresultaat:
 ## Herkansing
 
 <details open>
- ### verslag van meeting
+ <summary>verslag van de meeting</summary>
  Het gaat best goe maar het is niet gneog voor een voldoende de volgende punten zijn besproken en moeten verbeterd worden:
  -punt 1 te weinig diverse content. Op mijn website heb ik voor afbeeldingen gebruikt en tekst ik dit is helaas niet divers genoeg. Dit zou je kunnen oplossen door een form te gebruiken of een video, etc.
  -punt 2 ik heb een hamburgermenu gemaakt alleen is deze nog niet tot in detail uitgewerkt. Er zou nog een transition in kunnen en je zou met de opacity kunnen spelen.
