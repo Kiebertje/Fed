@@ -293,7 +293,18 @@ hier screenshot(s) van je eindresultaat:
 ## Herkansing
 
 <details open>
+ ### verslag van meeting
+ Het gaat best goe maar het is niet gneog voor een voldoende de volgende punten zijn besproken en moeten verbeterd worden:
+ -punt 1 te weinig diverse content. Op mijn website heb ik voor afbeeldingen gebruikt en tekst ik dit is helaas niet divers genoeg. Dit zou je kunnen oplossen door een form te gebruiken of een video, etc.
+ -punt 2 ik heb een hamburgermenu gemaakt alleen is deze nog niet tot in detail uitgewerkt. Er zou nog een transition in kunnen en je zou met de opacity kunnen spelen.
+ -punt 3 de surface plane mag meer uitgewerkt worden. De keuze voor de surface plane komt nog niet erg naarvoren, ik moet meer de witruimte en uitlijning gaan letten dit zou er 1 moeten zijn en niet dat alles een beetje overal staat. Daarnaast zou ik ook meer met states kunnen doen voor de hover ondanks dat ik het voor mobiel maak is dit een grote toeving en zal mijn website meer tot leven brengen. Er mag dus meer toffe CSS in mijn site gepompt worden
+ -punt 4 ik heb twee voortgangs gesprekken gemist om dit in te halen moet ik een verslag maken over mijn herkansing. Hier stel ik de vragen wat ga je doen? en hoe ga ik dat aanpakken?
  
+ Wat ga je doen?
+ Bij de voor gaande punten heb ik dit eingelijk al vertelt, maar samengevat ga ik meer doen met css en meer diverse content in mijn website zetten.
+ 
+ Hoe ga je dat aanpakken?
+ Ik ga alle punten 1 voor 1 af, hierdoor kan ik makkelijk zien wat ik nog moet doen. Als ik ergens vast loop probeer ik eerst he tuit de huiswerk opdrachten te halen als dat niet lukt kijk ik of ik online kan vinden als de online code te ingewikkeld is vraag ik hulp bij een klasgenoot en als dat niet helpt zoek ik een andere oplossing. Op deze manier wil in CSS schrijven en mijn nieuwe content maken.
 </details>
 
 
