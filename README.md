@@ -290,6 +290,12 @@ hier screenshot(s) van je eindresultaat:
 
 </details>
 
+## Herkansing
+
+<details open>
+ 
+</details>
+
 
 
 
