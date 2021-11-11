@@ -310,7 +310,9 @@ hier screenshot(s) van je eindresultaat:
  Hoe ga je dat aanpakken?
  Ik ga alle punten 1 voor 1 af, hierdoor kan ik makkelijk zien wat ik nog moet doen. Als ik ergens vast loop probeer ik eerst he tuit de huiswerk opdrachten te halen als dat niet lukt kijk ik of ik online kan vinden als de online code te ingewikkeld is vraag ik hulp bij een klasgenoot en als dat niet helpt zoek ik een andere oplossing. Op deze manier wil in CSS schrijven en mijn nieuwe content maken.
  
- Eindresultaat
+ ## Eindresultaat herkansing
+ 
+ 
  <img width="378" alt="Screenshot 2021-11-11 at 12 51 43" src="https://user-images.githubusercontent.com/90263552/141293921-b0b450b0-b5e2-44cb-aa05-78d700bf4c72.png">
  
 <img width="373" alt="Screenshot 2021-11-11 at 12 52 00" src="https://user-images.githubusercontent.com/90263552/141293963-10293eb4-cb9a-4e84-8983-c03781de6c1a.png">
