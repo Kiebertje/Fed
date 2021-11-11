@@ -311,7 +311,29 @@ hier screenshot(s) van je eindresultaat:
  Ik ga alle punten 1 voor 1 af, hierdoor kan ik makkelijk zien wat ik nog moet doen. Als ik ergens vast loop probeer ik eerst he tuit de huiswerk opdrachten te halen als dat niet lukt kijk ik of ik online kan vinden als de online code te ingewikkeld is vraag ik hulp bij een klasgenoot en als dat niet helpt zoek ik een andere oplossing. Op deze manier wil in CSS schrijven en mijn nieuwe content maken.
  
  Eindresultaat
+ <img width="378" alt="Screenshot 2021-11-11 at 12 51 43" src="https://user-images.githubusercontent.com/90263552/141293921-b0b450b0-b5e2-44cb-aa05-78d700bf4c72.png">
  
+<img width="373" alt="Screenshot 2021-11-11 at 12 52 00" src="https://user-images.githubusercontent.com/90263552/141293963-10293eb4-cb9a-4e84-8983-c03781de6c1a.png">
+ 
+ <img width="373" alt="Screenshot 2021-11-11 at 12 52 12" src="https://user-images.githubusercontent.com/90263552/141293995-d279ca94-2666-466f-b5d3-ed166c6335c8.png">
+ 
+ <img width="376" alt="Screenshot 2021-11-11 at 12 52 26" src="https://user-images.githubusercontent.com/90263552/141294038-695a735a-6b5e-41f4-9c02-5a1f78e2cc77.png">
+ 
+ <img width="375" alt="Screenshot 2021-11-11 at 12 52 50" src="https://user-images.githubusercontent.com/90263552/141294073-0038b430-0d49-446c-aba3-4ce3851c8b32.png">
+ 
+<img width="376" alt="Screenshot 2021-11-11 at 12 53 02" src="https://user-images.githubusercontent.com/90263552/141294107-0ac9fd5f-8104-4a94-b153-4253872b7fe7.png">
+ 
+ <img width="376" alt="Screenshot 2021-11-11 at 12 53 48" src="https://user-images.githubusercontent.com/90263552/141294150-7be82ea4-8881-49de-845c-f5741da6d8a9.png">
+ 
+ <img width="376" alt="Screenshot 2021-11-11 at 12 54 04" src="https://user-images.githubusercontent.com/90263552/141294196-57a5fd5c-c194-4f58-b935-84d18280ee44.png">
+
+<img width="375" alt="Screenshot 2021-11-11 at 12 54 14" src="https://user-images.githubusercontent.com/90263552/141294206-647b06b8-3e50-4911-9aee-eedd2d0d5087.png">
+
+ <img width="375" alt="Screenshot 2021-11-11 at 12 54 27" src="https://user-images.githubusercontent.com/90263552/141294235-f448f212-553e-412e-b2ef-807883b713f4.png">
+
+ <img width="376" alt="Screenshot 2021-11-11 at 12 54 50" src="https://user-images.githubusercontent.com/90263552/141294253-764a7b38-00bc-4744-84a9-d345e431170a.png">
+
+
 </details>
 
 
