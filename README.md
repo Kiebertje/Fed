@@ -309,7 +309,12 @@ hier screenshot(s) van je eindresultaat:
  
  Hoe ga je dat aanpakken?
  Ik ga alle punten 1 voor 1 af, hierdoor kan ik makkelijk zien wat ik nog moet doen. Als ik ergens vast loop probeer ik eerst he tuit de huiswerk opdrachten te halen als dat niet lukt kijk ik of ik online kan vinden als de online code te ingewikkeld is vraag ik hulp bij een klasgenoot en als dat niet helpt zoek ik een andere oplossing. Op deze manier wil in CSS schrijven en mijn nieuwe content maken.
+ 
+ Eindresultaat
+ 
 </details>
+
+
 
 
 
