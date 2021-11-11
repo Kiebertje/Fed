@@ -7,7 +7,7 @@ body {
     padding-bottom: 60px;
 }
 
-a {
+article:nth-of-type(1) a, article:nth-of-type(2) a, article:nth-of-type(3) a, #koop a:nth-of-type(1), #koop a:nth-of-type(2) {
     text-decoration: none;
 }
 
@@ -21,11 +21,21 @@ h2 {
     --font-price:lightgray;
     --background-footer:whitesmoke;
     --red-color:red;
+    --orange-color:orange;
+    --olive-color:olive;
+    --lightgreen-color:lightgreen;
+    --green-color:green;
+    --yellowgreen-color:yellowgreen;
+    --blue-color:blue;
 }
 
 /****************************/
 /************nav*************/
 /****************************/
+
+nav a:nth-of-type(1):hover, nav a:nth-of-type(2):hover, nav a:nth-of-type(3):hover{
+cursor: pointer;
+}
 
 nav {
     background-color: var(--black-color);
@@ -77,14 +87,14 @@ main>article {
 article:nth-of-type(1) h1 {
     position: absolute;
     top: 60px;
-    left: 10px;
+    left: 7%;
     color:var(--white-color);
 }
 
 article:nth-of-type(1) a {
     position: absolute;
     bottom: 70px; 
-    left: 7.5%;
+    left: 7%;
     border: solid 10px var(--white-color);
     background-color: var(--white-color);
     color: var(--black-color);
@@ -95,7 +105,8 @@ article:nth-of-type(1) a {
 article:nth-of-type(1) a + p {
     position: absolute;
     top: 110px; 
-    left: 10px;
+    left: 7%;
+    right: 7%;
     color:var(--white-color);
 }
 
@@ -148,12 +159,12 @@ div>img {
 /****************************/
 
 article:nth-of-type(2) {
-    padding-top: 7%;
+    padding-top: 0%;
 }
 
 article:nth-of-type(2) a {
     position: absolute;
-    right: 1em;
+    right: 7%;
     bottom: 1em;
     margin: 0;
     padding: .5em;
@@ -164,7 +175,7 @@ article:nth-of-type(2) a {
 
 article:nth-of-type(2) a + p{
     position: absolute;
-    right: 1em;
+    right: 7%;
     bottom: 5em;
     margin: 0;
     padding: .5em;
@@ -176,7 +187,7 @@ article:nth-of-type(2) a + p{
 /****************************/
 
 article:nth-of-type(3) {
-    padding-top: 7%;
+    padding-top: 15%;
 }
 
 article:nth-of-type(3) + img{
@@ -185,7 +196,7 @@ article:nth-of-type(3) + img{
 
 article:nth-of-type(3) a {
     position: absolute;
-    right: 1em;
+    right: 7%;
     bottom: 1em;
     margin: 0;
     padding: .5em;
@@ -195,23 +206,94 @@ article:nth-of-type(3) a {
 }
 
 /****************************/
-/********active state*********/ 
+/********hover state*********/ 
 /****************************/
 
-article:nth-of-type(1) a:active, article:nth-of-type(2) a:active, article:nth-of-type(3) a:active{
+article:nth-of-type(1) a:hover, article:nth-of-type(2) a:hover, article:nth-of-type(3) a:hover{
     border: solid var(--black-color);
     color: var(--white-color);
     background-color: var(--black-color);
     border-radius: 10em;
     transition: 1s;
+    cursor:pointer;
 }
 
-#koop a:nth-of-type(1):active, #koop a:nth-of-type(2):active {
+@keyframes draaien {
+    0% {
+        transform:rotate(0);
+    }
+
+    50% {
+        transform: rotate(180deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+      
+} 
+
+article:nth-of-type(2) a:hover{
+ animation-name:draaien;
+ animation-duration: 2s;
+ animation-iteration-count: infinite;
+}
+
+@keyframes springen {
+    0% {
+        transform: translateY(0);
+    }
+
+    100% {
+        transform: translateY(-100px);
+    }
+}
+
+article:nth-of-type(3) a:hover{
+    animation-name: springen;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+#koop a:nth-of-type(1):hover, #koop a:nth-of-type(2):hover {
 border: solid var(--black-color);
 background-color: var(--black-color);
 color: var(--white-color);
 transition: 0.2s;
+cursor:pointer;
+animation-name: opvallen;
+animation-duration: 3s;
+animation-iteration-count: 2;
 }
+
+@keyframes opvallen {
+    0% {
+        transform: scale(1);
+    }
+
+    50% {
+        transform: scale(2);
+    }
+
+    100% {
+        transform: scale(1);
+    }
+}
+
+/****************************/
+/********active state*********/ 
+/****************************/
+
+article:nth-of-type(1) a:active, article:nth-of-type(2) a:active, article:nth-of-type(3) a:active {
+    color: var(--black-color);
+    background-color: var(--green-color);
+}
+
+#koop a:nth-of-type(1):active, #koop a:nth-of-type(2):active {
+    color: var(--black-color);
+    background-color: var(--green-color);
+} 
 
 
 /****************************/
@@ -223,7 +305,32 @@ article:nth-of-type(1) a:focus,article:nth-of-type(2) a:focus,article:nth-of-typ
 #koop a:nth-of-type(1):focus, #koop a:nth-of-type(2):focus {
     border: dashed var(--black-color);
     color: var(--black-color);
-    background-color: yellowgreen;
+    background-color: var(--yellowgreen-color);
+}
+
+/****************************/
+/*****hover link state*******/ 
+/****************************/
+
+article:nth-of-type(4)>a:nth-of-type(2):hover{
+    cursor: pointer;
+    color: var(--blue-color);
+}
+
+/****************************/
+/*****active link state*******/ 
+/****************************/
+article:nth-of-type(4)>a:nth-of-type(2):active{
+    cursor: pointer;
+    color: var(--red-color);
+}
+
+/****************************/
+/*****focus link state*******/ 
+/****************************/
+article:nth-of-type(4)>a:nth-of-type(2):focus, article:nth-of-type(4)>a:nth-of-type(3):focus {
+    cursor: pointer;
+    color: var(--green-color);
 }
 
 
@@ -235,15 +342,17 @@ article:nth-of-type(1) a:focus,article:nth-of-type(2) a:focus,article:nth-of-typ
 article:nth-of-type(4){
     width: 100%;
 }
-article:nth-of-type(4)>p:nth-of-type(1),h4 {
+article:nth-of-type(4)>p:nth-of-type(1){
     text-align: center;
+    padding-left: 7%;
+    padding-right: 7%;
 }
 
 article:nth-of-type(4) img {
     width: 100%;
 }
 
-article:nth-of-type(4) a {
+article:nth-of-type(4) a:nth-of-type(1) {
     position:absolute;
     transform:rotate(-2.5deg); 
     border:solid var(--red-color);
@@ -257,10 +366,19 @@ article:nth-of-type(4)>p:nth-of-type(2), #koop article p:nth-of-type(1) {
  color: var(--font-price);
 }
 
-article:nth-of-type(4)>p:nth-of-type(3) {
+article:nth-of-type(4)>p:nth-of-type(2) {
+    padding-left: 7%;
+}
+
+article:nth-of-type(4)>a:nth-of-type(2), article:nth-of-type(4)>a:nth-of-type(3) {
     font-size: 16px;
     margin-bottom: -20px;
+    padding-left: 7%;
 } 
+
+article:nth-of-type(4)>a:nth-of-type(3) {
+    padding-bottom: 25px;
+}
 
 /****************************/
 /********footer**************/ 
@@ -293,11 +411,15 @@ header > ul:nth-of-type(1) {
     z-index: 1000;
     height: 400px;
     color: var(--white-color);
+    transition: all 0.7s ease-in-out; 
+    margin-top: -1000px; 
+    z-index: 98; 
 }
 
 
 .hamburgermenu {
     visibility: visible !important;
+    margin-top: 60px!important; 
 }
 
 /****************************/
@@ -313,7 +435,7 @@ padding-bottom: 40%;
     padding-top: 20%;
 }
 
-#koop article:nth-of-type(1), #koop article:nth-of-type(2) {
+#koop article:nth-of-type(1), #koop article:nth-of-type(2), #koop article:nth-of-type(3) {
     height: 210px;
     width: 200px;
     padding-left: 23%;
@@ -322,12 +444,12 @@ padding-bottom: 40%;
     color: var(--black-color);
     font-size: 16px;
     font-weight: bold;
-    padding-left: 20px;
+    padding-left: 7%;
 }
 
 #koop p{
     font-size: 12px;
-    padding-left: 20px;
+    padding-left: 7%;
 }
 
 #koop a:nth-of-type(1), #koop a:nth-of-type(2) {
@@ -358,6 +480,67 @@ padding-bottom: 40%;
     margin-top: 1000px;
 }
 
+/*form*/
+
+#koop article:nth-of-type(3) {
+    padding-top: 150px;
+}
+
+#koop article:nth-of-type(3)>h1 {
+    padding-top: 100px;
+    padding-left: 7%;
+    text-align: center;
+}
+
+form {
+    padding-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    max-width: 200px;
+    padding-left: 7%;
+}
+
+form input:nth-of-type(1), form input:nth-of-type(2), textarea {
+    margin-bottom: 20px;
+}
+
+form input:nth-of-type(3) {
+    border-style: none;
+    background-color: var(--lightgreen-color);
+}
+
+
+/*form hover*/
+
+form input:nth-of-type(3):hover {
+    transform:translatey(-.5em);
+    box-shadow: .5em .5em 0 0 var(--olive-color);
+    transition: 0.5s; 
+    cursor:pointer;
+}
+
+/*form active*/
+
+form input:nth-of-type(3):active{
+  padding-top: .5em;
+  transform:translatey(0);
+  background-color: var(--lightgreen-color);
+  box-shadow: 0 0 .5em .5em  var(--olive-color);
+}
+
+/*form focus*/
+
+form input:nth-of-type(3):focus{
+    outline: 5px dashed var(--orange-color);
+}
+
+form input:nth-of-type(1):focus, form input:nth-of-type(2):focus, textarea:focus {
+    outline: 2px dashed var(--orange-color);
+}
+
+
+
+
 
 /* bron beng logo: https://www.ben-g.nl/collections/ben-g-select */
 /* bron popcompany shop nu foto: https://www.seprun.com/search/pop-trading-company-big-pocket-shirt-black */
@@ -373,5 +556,6 @@ padding-bottom: 40%;
 /* bron obey: https://obeyclothing.eu/products/obey-icon-heavyweight-pullover-hood */
 /* bron skateboard: https://nl.pinterest.com/pin/53409945570494034/ */
 /* bron pop pagina 2: https://webshop.poptradingcompany.com/products/pop-full-zip-knitted-vest-spruce-yellow */
+/* bron video: https://www.youtube.com/watch?v=lXOYnW5gK8g (nike sb) */
 
 
